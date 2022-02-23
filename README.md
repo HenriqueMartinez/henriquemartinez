@@ -1,4 +1,11 @@
-<div  align="center"> 
+ <div align="center">
+  <a href="https://github.com/henriquemartinez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemartinez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
+</div>    
+
+##    
+    
+<div align="center"> 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -10,7 +17,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">    
 </div>
 
-<div align="center"><br>
+<br>
+    
+<div align="center">
   <a href="https://www.youtube.com/channel/" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
