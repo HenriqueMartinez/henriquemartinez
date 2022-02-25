@@ -2,7 +2,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="center"> 
+<div align="center"> 
     <img height="48" width="48" src="https://img.icons8.com/color/344/javascript--v1.png" />
     <img height="48" width="48" src="https://img.icons8.com/color/344/typescript.png" />  
     <img height="48" width="48" src="https://img.icons8.com/color/48/000000/nodejs.png" />
@@ -22,7 +22,7 @@
     <img height="48" width="48" src="https://img.icons8.com/color/344/sony-vegas.png" />
     <img height="48" width="48" src="https://img.icons8.com/color/344/figma--v1.png" />   
     <img height="48" width="48" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" />
-</p>
+</div>
 
 <br/>
 
